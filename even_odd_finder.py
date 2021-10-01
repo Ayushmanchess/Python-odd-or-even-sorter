@@ -1,9 +1,4 @@
 
-#setting variables
-num1odd = 0
-num1even = 0
-
-
 #Asks the user for the number range
 num1 = float(input("Enter the first number of the range!"))
 num2 = float(input("Enter the last number of the range!"))
