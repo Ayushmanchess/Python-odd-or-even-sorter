@@ -24,6 +24,6 @@ while True:
     if (num1==num2):
         break
 
-print(num1even)    
-print(num1odd)
+print("total number of even numbers: " + num1even)    
+print("total number of odd numbers: " + num1odd)    
                 
